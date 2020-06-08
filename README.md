@@ -1,4 +1,4 @@
 # geography-quiz
-A simple geography quiz program
+A simple geography quiz program. 
 Repeats questions until answered correctly
-Comes with attempt counter
+and omes with attempt counter
